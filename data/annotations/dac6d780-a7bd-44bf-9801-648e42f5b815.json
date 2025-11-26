@@ -13,7 +13,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "John"
+        }
+      ],
       "uuid": "a348389a-85dc-4b5b-b723-ef42eb9ddab1"
     }
   ],
