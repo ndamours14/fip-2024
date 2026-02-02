@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "fbec03ab-9f7d-4a25-bbe7-1804b4a93690": {
+      "label": "AV File 1",
+      "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/234/118/original/01_Welcome.mp4?1710862153",
+      "duration": 1015.636,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-02-02T17:13:14.906Z",
+  "created_by": "ndamours14",
+  "label": "Media File 1 of 1 - 01_Welcome.mp4",
+  "updated_at": "2026-02-02T17:13:14.906Z",
+  "updated_by": "ndamours14",
+  "rights_statement": ""
+}
